@@ -53,7 +53,7 @@
 <section class="gallery-text">
 <h1>Fabricio Cravo</h1>
 <p>Ph.D. student at Paris-Saclay University<br>
-<a href="https://lmf.cnrs.fr/Annuaire">LMF - ENS Paris Saclay</a>
+<a href="https://lmf.cnrs.fr/Annuaire">LMF - ENS Paris Saclay</a><br>
 <a href="https://www.lisn.upsaclay.fr">LISN</a></p>
   <br>
    <br>
