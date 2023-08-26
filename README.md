@@ -24,7 +24,7 @@
 <a href="#teach">Teaching</a>
 </li>
 <li class="nav_list">
-<a href="#pubs">Publications</a>
+<a href="#pub">Publications</a>
 </li>
   <li class="nav_list">
 <a href="#edu">Education</a>
@@ -80,7 +80,7 @@
 <ul>
   <li>Algorithms and Complexity (CentraleSupélec) - (2* Semester 2021, 2* Semester 2022) </li>
   <li>Distributed Algorithms (Polytech Paris-Saclay) - (2* Semester 2021, 2* Semester 2022) </li>
-  <li>Electromagnetism - (1* Semester 2021) </li>
+  <li>Electromagnetism (Unicamp) - (1* Semester 2021) </li>
   <li>Mathematics Summer School (CentraleSupélec) - (1* Semester 2018, 1* Semester 2019, 1* Semester 2020) </li>
 </ul>
 
