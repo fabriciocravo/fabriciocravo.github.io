@@ -132,7 +132,7 @@
   <a href="https://github.com/fabriciocravo/MNIST_Adversarial_Captchas">Git-Hub</a></p></li>
 
   <li><p><em>Collaborative Online TCP-IP Whiteboard</em><br>
-    This project consisted on a collaborative whiteboard were multiple people can draw together online.
+    This project consisted on a collaborative whiteboard where multiple people can draw together online.
     - 2019
   <a href="https://github.com/fabriciocravo/Whiteboard">Git-Hub</a></p></li>
 </ul>
