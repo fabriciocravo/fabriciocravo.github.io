@@ -129,7 +129,7 @@
   <li><p><em>Adversarial Captchas</em><br>
     This repository contains the neural networks that generate adversarial captcha images using the One-Pixel Attack<br>
     - 2020
-  <a href=https://github.com/fabriciocravo/MNIST_Adversarial_Captchas>Git-Hub</a></p></li>
+  <a href="https://github.com/fabriciocravo/MNIST_Adversarial_Captchas">Git-Hub</a></p></li>
 
   <li><p><em>Collaborative Online TCP-IP Whiteboard</em><br>
     This project consisted on a collaborative whiteboard were multiple people can draw together online.
