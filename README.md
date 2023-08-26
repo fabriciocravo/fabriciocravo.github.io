@@ -53,7 +53,7 @@
 <section class="gallery-text">
 <h1>Fabricio Cravo</h1>
 <p>Ph.D. student at Paris-Saclay University<br>
-<a href="https://lmf.cnrs.fr/Annuaire">LMF - ENS Paris Saclay</a></p>
+<a href="https://lmf.cnrs.fr/Annuaire">LMF - ENS Paris Saclay</a>
 <a href="https://www.lisn.upsaclay.fr">LISN</a></p>
   <br>
    <br>
@@ -86,6 +86,9 @@
 
 <h2 id="pub">Publications</h2>
 <ul>
+  <li><p><em>An Allee-based Distributed Algorithm for Microbial Whole-Cell Sensors</em> with M. Függer, and T. Nowak, 2022.<br>
+  <a href="https://www.biorxiv.org/content/10.1101/2023.08.25.554781v1">bioRxiv</a></p></li>
+
   <li><p><em>MobsPy: A Meta-Species Language for Chemical Reaction
   Networks</em> with M. Függer, and G. Prakash, and T. Nowak, 2022.<br>
   <a href="https://doi.org/10.1007/978-3-031-15034-0_14">Extended
@@ -126,7 +129,7 @@
     - 2020
   <a href="https://github.com/CHUht/Hangout_Recommendations_Front_End">Git-Hub</a></p></li>
 
-  <<li><p><em>Adversarial Captchas</em><br>
+  <li><p><em>Adversarial Captchas</em><br>
     This project contains a neural network to generate Adversarial Captchas with the One Pixel Attack
     - 2020
   <a href="https://github.com/fabriciocravo/MNIST_Adversarial_Captchas">Git-Hub</a></p></li>
@@ -161,5 +164,3 @@ France<br>
 <br>
 Email: <a>fabricio dot cravo [at] student dot ecp dot fr</a><br>
 
-</body>
-</html>
