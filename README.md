@@ -87,13 +87,13 @@
 <h2 id="pub">Publications</h2>
 <ul>
   <li><p><em>MobsPy: A Meta-Species Language for Chemical Reaction
-  Networks</em> with F. Cravo, M. Függer, and G. Prakash, 2022.<br>
+  Networks</em> with M. Függer, and G. Prakash, and T. Nowak 2022.<br>
   <a href="https://doi.org/10.1007/978-3-031-15034-0_14">Extended
   abstract</a> presented at CMSB 2022<br>
   <a href="https://doi.org/10.1101/2022.05.05.490768">bioRxiv</a></p></li>
 
   <li><p><em>Stochastic Multi-Distribution Modeling of Inter-Contact
-  Times</em> with F. Cravo, 2022.<br>
+  Times</em> with T. Nowak, 2022.<br>
   <a href="https://doi.org/10.1109/ICOIN53446.2022.9687207">Extended
   abstract</a> presented at ICOIN 2022.<br>
   <a href="https://arxiv.org/abs/2104.07298v1">arXiv</a></p></li>
