@@ -126,8 +126,8 @@
     - 2020
   <a href="https://github.com/CHUht/Hangout_Recommendations_Front_End">Git-Hub</a></p></li>
 
-  <li><p><em>Adversarial Captchas</em><br>
-    This repository contains the neural networks that generate adversarial captcha images using the One-Pixel Attack<br>
+  <<li><p><em>Adversarial Captchas</em><br>
+    This project contains a neural network to generate Adversarial Captchas with the One Pixel Attack
     - 2020
   <a href="https://github.com/fabriciocravo/MNIST_Adversarial_Captchas">Git-Hub</a></p></li>
 
