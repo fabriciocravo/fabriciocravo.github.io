@@ -67,7 +67,7 @@
 <ul>
   <li>Natural Algorithms</li>
   <li>Mathematical Modeling for Natural Systems</li>
-  <li>Computational Neurology</li>
+  <li>Computational Neuroscience</li>
     <li>Neural Networks</li>
 </ul>
 
