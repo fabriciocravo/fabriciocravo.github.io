@@ -119,12 +119,12 @@
 
 <ul>
   <li><p><em>MobsPy</em><br>
-    This repository contains the Meta-Species Oriented Biosystem Syntax which I am currently the lead developer
+    This repository contains the Meta-Species Oriented Biosystem Syntax, which I am currently the lead developer
     - (2021 - Ongoing)
   <a href="https://github.com/ROBACON/mobspy">Git-Hub</a></p></li>
 
   <li><p><em>Event Recommendation Website</em><br>
-    In this project, I developed a TF-IDF cossine similarity algorithm to tackle
+    In this project, I developed a TF-IDF cosine similarity algorithm to tackle
     the cold-start recommendation challenge.
     - 2020
   <a href="https://github.com/CHUht/Hangout_Recommendations_Front_End">Git-Hub</a></p></li>
@@ -135,7 +135,7 @@
   <a href="https://github.com/fabriciocravo/MNIST_Adversarial_Captchas">Git-Hub</a></p></li>
 
   <li><p><em>Collaborative Online TCP-IP Whiteboard</em><br>
-    This project consisted on a collaborative whiteboard where multiple people can draw together online.
+    This project consists of a collaborative whiteboard where multiple people can draw together online.
     - 2019
   <a href="https://github.com/fabriciocravo/Whiteboard">Git-Hub</a></p></li>
 </ul>
