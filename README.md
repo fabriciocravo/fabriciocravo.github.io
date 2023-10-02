@@ -168,4 +168,4 @@ Room 2S67<br>
 France<br>
 <br>
 Emails: <a>fabricio dot cravo [at] student dot ecp dot fr</a><br>
-<a>fabricio dor cravo1 [at] universite-paris-saclay dot fr</a><br>
+<a>fabricio dot cravo1 [at] universite-paris-saclay dot fr</a><br>
