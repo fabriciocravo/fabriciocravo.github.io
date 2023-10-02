@@ -119,8 +119,7 @@
 
 <ul>
   <li><p><em>Greener Webscraper</em><br>
-    This project consisted of a bot that automates the search of information about companies online from survey responses. It was coded for and used by the Greener consulting 
-   company in Brazil.
+    This project consisted of a bot that automates the search for information about companies from survey responses. It was coded for and used by the Greener consulting company      in Brazil.
     - 2021 (Git-Hub not publicly available)</p></li>
   
   <li><p><em>MobsPy</em><br>
