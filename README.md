@@ -118,8 +118,13 @@
 <h2 id="soft">Sotware Projects</h2>
 
 <ul>
+  <li><p><em>Greener Webscraper</em><br>
+    This project consisted of a bot that automates the search of information about companies online from survey responses. It was coded for and used by the Greener consulting 
+   company in Brazil.
+    - 2021 (Git-Hub not publicly available)
+  
   <li><p><em>MobsPy</em><br>
-    This repository contains the Meta-Species Oriented Biosystem Syntax, which I am currently the lead developer
+    This repository contains the Meta-Species Oriented Biosystem Syntax, for which I am currently the lead developer
     - (2021 - Ongoing)
   <a href="https://github.com/ROBACON/mobspy">Git-Hub</a></p></li>
 
@@ -147,7 +152,7 @@
 <ul>
   <li>Ph.D. Student Representative - LMF ENS Paris-Saclay -  2023 </li>
   <li>Teaching Internship - President of the Mathematics Summer School - E. Herbin (2018 - 2020) </li>
-  <li>Research Internship - Pizoeletric Devices Design - S. Kovaleski - University of Missouri (2015) </li>
+  <li>Research Internship - Piezoelectric Devices Design - S. Kovaleski - University of Missouri (2015) </li>
   <li>Volunteering - International Student Reception - University of Missouri (2015) </li>
   <li>Research Internship - Electromagnetism Through Differential Forms - A. Mihara - Unifesp (2013 - 2014)</li>
 </ul>
@@ -162,5 +167,5 @@ Room 2S67<br>
 91190 Gif-sur-Yvette<br>
 France<br>
 <br>
-Email: <a>fabricio dot cravo [at] student dot ecp dot fr</a><br>
-
+Emails: <a>fabricio dot cravo [at] student dot ecp dot fr</a><br>
+<a>fabricio dor cravo1 [at] universite-paris-saclay dot fr</a><br>
