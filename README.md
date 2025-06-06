@@ -54,7 +54,7 @@
 <h1>Fabricio Cravo</h1>
 <p>Computational Neuroscientist, Postdoctoral Researcher<br>
 <a href="https://neuroprism.northeastern.edu/">NeuroPRISM Lab - Northeastern University</a><br>
-Former Ph.D. from <a href="https://lmf.cnrs.fr/Annuaire">LMF - Paris-Saclay University</a> (ranked #1 globally in Mathematics by ARWU 2020-2023)</p>
+ Ph.D. in Computer Science/Applied Mathematics from <a href="https://lmf.cnrs.fr/Annuaire">LMF - Paris-Saclay University</a> (ranked #1 globally in Mathematics by ARWU 2020-2023)</p>
   <br>
    <br>
   <br>
