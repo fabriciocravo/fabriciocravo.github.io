@@ -54,7 +54,7 @@
 <h1>Fabricio Cravo</h1>
 <p>Computational Neuroscientist, Postdoctoral Researcher<br>
 <a href="https://neuroprism.northeastern.edu/">NeuroPRISM Lab - Northeastern University</a><br>
-Former Ph.D. from <a href="https://lmf.cnrs.fr/Annuaire">LMF - Paris-Saclay University</a></p>
+Former Ph.D. from <a href="https://lmf.cnrs.fr/Annuaire">LMF - Paris-Saclay University</a> (ranked #1 globally in Mathematics by ARWU 2020-2023)</p>
   <br>
    <br>
   <br>
@@ -116,6 +116,11 @@ Former Ph.D. from <a href="https://lmf.cnrs.fr/Annuaire">LMF - Paris-Saclay Univ
 <h2 id="soft">Sotware Projects</h2>
 
 <ul>
+  <li><p><em>BrainPowerX</em><br>
+    This project consists of the implementation of a new algorithm for statistical empirical power analysis with an optimized architecture for the comparison of multiple statistical inference procedures for fMRI studies.
+    - (2024 - Ongoing)
+  <a href="https://github.com/neuroprismlab/Power_Calculator">Git-Hub</a></p></li>
+
   <li><p><em>Greener Webscraper</em><br>
     This project consisted of a bot that automates the search for information about companies from survey responses. It was coded for and used by the Greener consulting company      in Brazil.
     - 2021 (Git-Hub not publicly available)</p></li>
