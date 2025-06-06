@@ -52,9 +52,9 @@
 </div>
 <section class="gallery-text">
 <h1>Fabricio Cravo</h1>
-<p>Ph.D. student at Paris-Saclay University<br>
-<a href="https://lmf.cnrs.fr/Annuaire">LMF - ENS Paris Saclay</a><br>
-<a href="https://www.lisn.upsaclay.fr">LISN</a></p>
+<p>Computational Neuroscientist, Postdoctoral Researcher<br>
+<a href="https://neuroprism.northeastern.edu/">NeuroPRISM Lab - Northeastern University</a><br>
+Former Ph.D. from <a href="https://lmf.cnrs.fr/Annuaire">LMF - Paris-Saclay University</a></p>
   <br>
    <br>
   <br>
@@ -65,14 +65,16 @@
 
 <h2 id="research">Research Interests</h2>
 <ul>
-  <li>Natural Algorithms</li>
-  <li>Mathematical Modeling for Natural Systems</li>
   <li>Computational Neuroscience</li>
-    <li>Neural Networks</li>
+  <li>fMRI Data Analysis and Statistical Methods</li>
+  <li>Machine Learning Applications to Neuroscience</li>
+  <li>Mathematical Modeling for Natural Systems</li>
+  <li>Systems Biology and Biochemical Networks</li>
 </ul>
 
 <h2 id="pro">Projects</h2>
 <ul>
+    <li><a href="https://github.com/neuroprismlab/Power_Calculator">BrainPowerX</a>: fMRI Power Calculator software with novel algorithms for statistical analysis</li>
     <li><a href="https://dreamy.run/">DREAMY</a>: Distributed Algorithms in Microbiological Systems (ANR)</li>
 </ul>
 
@@ -86,25 +88,21 @@
 
 <h2 id="pub">Publications</h2>
 <ul>
-  <li><p><em>An Allee-based Distributed Algorithm for Microbial Whole-Cell Sensors</em> with M. Függer, and T. Nowak, 2022.<br>
-  <a href="https://www.biorxiv.org/content/10.1101/2023.08.25.554781v1">bioRxiv</a></p></li>
+  <li><p><em>MobsPy: A programming language for biochemical reaction networks</em> with G. Prakash, M. Függer, and T. Nowak, 2024.<br>
+  <a href="https://doi.org/10.1371/journal.pcbi.1013024">PLOS Computational Biology</a></p></li>
 
-  <li><p><em>MobsPy: A Meta-Species Language for Chemical Reaction
-  Networks</em> with M. Függer, and G. Prakash, and T. Nowak, 2022.<br>
-  <a href="https://doi.org/10.1007/978-3-031-15034-0_14">Extended
-  abstract</a> presented at CMSB 2022<br>
-  <a href="https://doi.org/10.1101/2022.05.05.490768">bioRxiv</a></p></li>
+  <li><p><em>An Allee-based Distributed Algorithm for Microbial Whole-Cell Sensors</em> with M. Függer, and T. Nowak, 2024.<br>
+  <a href="https://www.nature.com/articles/s41540-024-00363-3">npj Systems Biology and Applications</a></p></li>
 
-  <li><p><em>Stochastic Multi-Distribution Modeling of Inter-Contact
-  Times</em> with T. Nowak, 2022.<br>
-  <a href="https://doi.org/10.1109/ICOIN53446.2022.9687207">Extended
-  abstract</a> presented at ICOIN 2022.<br>
+  <li><p><em>MobsPy: A Meta-Species Language for Chemical Reaction Networks</em> with M. Függer, and G. Prakash, and T. Nowak, 2022.<br>
+  <a href="https://doi.org/10.1007/978-3-031-15034-0_14">Extended abstract</a> presented at CMSB 2022</p></li>
+
+  <li><p><em>Stochastic Multi-Distribution Modeling of Inter-Contact Times</em> with T. Nowak, 2022.<br>
+  <a href="https://doi.org/10.1109/ICOIN53446.2022.9687207">Extended abstract</a> presented at ICOIN 2022.<br>
   <a href="https://arxiv.org/abs/2104.07298v1">arXiv</a></p></li>
 
-  <li><p><em>Pixel Attack for CAPTCHA Construction</em>
-    with R. Arthur, 2022.<br>
-  <a href="https://link.springer.com/chapter/10.1007/978-3-030-98015-3_50">Extended
-  abstract</a> presented at FICC 2022<br></p></li>
+  <li><p><em>Pixel Attack for CAPTCHA Construction</em> with R. Arthur, 2022.<br>
+  <a href="https://link.springer.com/chapter/10.1007/978-3-030-98015-3_50">Extended abstract</a> presented at FICC 2022</p></li>
 </ul>
 
 <h2 id="edu">Education</h2>
@@ -156,15 +154,12 @@
   <li>Research Internship - Electromagnetism Through Differential Forms - A. Mihara - Unifesp (2013 - 2014)</li>
 </ul>
 
-<h2 id="contact">Contact</h2>
-
 <p><strong>Fabricio Cravo</strong><br>
-Laboratoire Méthodes Formelles<br>
-ENS Paris-Saclay<br>
-Room 2S67<br>
-4, avenue des Sciences<br>
-91190 Gif-sur-Yvette<br>
-France<br>
+NeuroPRISM Lab<br>
+Northeastern University<br>
+Boston, MA<br>
+USA<br>
 <br>
-Emails: <a>fabricio dot cravo [at] student dot ecp dot fr</a><br>
-<a>fabricio dot cravo1 [at] universite-paris-saclay dot fr</a><br>
+Email: <a>f dot cravogomes [at] northeastern dot edu</a><br>
+Website: <a href="https://fabriciocravo.github.io">fabriciocravo.github.io</a><br>
+</p>
