@@ -12,7 +12,7 @@ function showSection(sectionId) {
     sections.forEach(section => section.style.display = 'none');
 
     // Show the selected section
-    document.getElementById(sectionId).style.display = 'inline';
+    document.getElementById(sectionId).style.display = 'block';
 }
 </script>
 
@@ -27,10 +27,14 @@ function showSection(sectionId) {
 <div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse">
 <ul class="nav_navbar-nav">
 <li class="nav_list">
-<a  href="#" onclick="showSection('research')">What is Neurohack?</a>
+<a  href="#" onclick="showSection('home')">What is Neurohack?</a>
 </li>
 <li class="nav_list">
 <a  href="#" onclick="showSection('inscription')">Inscription</a>
+</li>
+</li>
+<li class="nav_list">
+<a  href="#" onclick="showSection('music')">Songs I like</a>
 </li>
 </ul>
 </div>
@@ -40,28 +44,38 @@ function showSection(sectionId) {
 </nav>
 
 
- <section id="research" class="content-section">
-        <div>
-            <h1>NeuroHack 2024</h1>
-            <div>
-                Advanced Neuroscience Workshop
-            </div>
-            <p>Join us for an intensive Lorem ipsum section with a lot of Lorem ipsum and more Lorem ipsum. Have I mentioned Lorem ipsum?
-                Cause we have all the Lorem ipsum. </p>
+<section id="home" class="content-section">
+    <div class="hero-content">
+        <h1>NeuroHack 2025</h1>
+        <div class="hero-subtitle">
+            Advanced Neuroscience Workshop
         </div>
+        <p>Join us for an intensive Lorem ipsum section with a lot of Lorem ipsum and more Lorem ipsum. Have I mentioned Lorem ipsum?
+            Cause we have all the Lorem ipsum.</p>
+    </div>
 </section>
 
 
  <section id="inscription" class="content-section">
-        <div>
-            <h1>NeuroHack 2024</h1>
-            <div>
-                Inscription
+        <div class="hero-content">
+            <h1>Inscription</h1>
+            <div class="hero-subtitle">
+                Follow these steps to register to Neurohack
             </div>
             <p> For inscription, please do Lorem ipsum</p>
         </div>
 </section>
 
+
+ <section id="music" class="content-section">
+        <div class="hero-content">
+            <h1>Songs</h1>
+            <div class="hero-subtitle">
+                Testing if links are working
+            </div>
+            <p><a href="https://www.youtube.com/watch?v=TUVcZfQe-Kw&list=RDr2LpOUwca94&index=6">What is this song?</a></p>
+        </div>
+</section>
 
 </body>
 </html>
