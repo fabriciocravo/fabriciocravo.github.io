@@ -27,14 +27,24 @@ function showSection(sectionId) {
 <div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse">
 <ul class="nav_navbar-nav">
 <li class="nav_list">
-<a  href="#" onclick="showSection('home')">What is Neurohack?</a>
+<a  href="#" onclick="showSection('about')">About</a>
+</li>
+<li class="nav_list">
+<a  href="#" onclick="showSection('schedule')">Schedule</a>
+</li>
+</li>
+<li class="nav_list">
+<a  href="#" onclick="showSection('location')">Location</a>
 </li>
 <li class="nav_list">
 <a  href="#" onclick="showSection('inscription')">Inscription</a>
 </li>
 </li>
 <li class="nav_list">
-<a  href="#" onclick="showSection('music')">Songs I like</a>
+<a  href="#" onclick="showSection('faq')">FAQ</a>
+</li>
+<li class="nav_list">
+<a  href="#" onclick="showSection('organizers')">Organizers</a>
 </li>
 </ul>
 </div>
@@ -44,37 +54,101 @@ function showSection(sectionId) {
 </nav>
 
 
-<section id="home" class="content-section">
+<section id="about" class="content-section">
     <div class="hero-content">
         <h1>NeuroHack 2025</h1>
         <div class="hero-subtitle">
             Advanced Neuroscience Workshop
         </div>
-        <p>Join us for an intensive Lorem ipsum section with a lot of Lorem ipsum and more Lorem ipsum. Have I mentioned Lorem ipsum?
-            Cause we have all the Lorem ipsum.</p>
+        <p> Neurohack Boston 2025 brings together neuroscientists from Boston's leading research institutions to explore cutting-edge discoveries and emerging frontiers in brain science.</p>
+<p>Join us for an intensive workshop featuring talks, hands-on sessions, and collaborative discussions designed to advance your research and expand your network in the Boston neuroscience community.
+     </p>
     </div>
 </section>
 
 
- <section id="inscription" class="content-section">
-        <div class="hero-content">
-            <h1>Inscription</h1>
-            <div class="hero-subtitle">
-                Follow these steps to register to Neurohack
-            </div>
-            <p> For inscription, please do Lorem ipsum</p>
-        </div>
+<section id="schedule" class="content-section">
+    <div class="table-content">
+        <table class="schedule-table">
+            <thead>
+                <tr>
+                    <th>Time</th>
+                    <th>Session</th>
+                    <th>Speaker</th>
+                    <th>Location</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>9:00 AM</td>
+                    <td>Opening Remarks</td>
+                    <td>Dr. Jane Smith</td>
+                    <td>Main Hall</td>
+                </tr>
+                <tr>
+                    <td>9:30 AM</td>
+                    <td>Keynote: Future of Neuroscience</td>
+                    <td>Dr. John Doe</td>
+                    <td>Main Hall</td>
+                </tr>
+                <tr>
+                    <td>10:30 AM</td>
+                    <td>Coffee Break</td>
+                    <td>-</td>
+                    <td>Lobby</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
 </section>
 
 
- <section id="music" class="content-section">
-        <div class="hero-content">
-            <h1>Songs</h1>
-            <div class="hero-subtitle">
-                Testing if links are working
-            </div>
-            <p><a href="https://www.youtube.com/watch?v=TUVcZfQe-Kw&list=RDr2LpOUwca94&index=6">What is this song?</a></p>
+<section id="location" class="content-section">
+    <div class="image-content">
+        <h1>Location</h1>
+        <div class="image-subtitle">
+            Neurohack Boston 2025 will take place both at Northeastern University's ISEC building and virtually over Zoom
         </div>
+        <img src="images/location_image.png" alt="Location Image">
+        <p></p>
+    </div>
+</section>
+
+<section id="inscription" class="content-section">
+    <div class="hero-content">
+        <h1>Inscription</h1>
+        <div class="hero-subtitle">
+            Registration Form
+        </div>
+        <p>For inscription, please click the following Google Form link:</p>
+        <p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1" target="_blank" style="color: #2c5aa0; text-decoration: underline; font-weight: bold;">NeuroHack Boston 2025 Registration Form</a></p>
+        <p>The inscription is free</p>
+    </div>
+</section>
+
+<section id="faq" class="content-section">
+    <div class="hero-content">
+        <h1>FAQ</h1>
+        <div class="hero-subtitle" style="text-align: left;">
+            Frequently Asked Questions
+        </div>
+
+        <p style="text-align: left; font-weight: bold; margin-top: 2rem;">Who should attend NeuroHack Boston 2025?</p>
+        <p style="text-align: left; margin-bottom: 2rem;">This workshop is designed for undergraduate students, graduate students, postdoctoral researchers, faculty members, and industry professionals working in neuroscience or related fields. Whether you're just starting your research journey or are an established scientist, you'll find valuable opportunities to learn cutting-edge techniques, share your work, and build meaningful connections within Boston's vibrant neuroscience community.</p>
+
+        <p style="text-align: left; font-weight: bold;">Will meals be provided?</p>
+        <p style="text-align: left; margin-bottom: 2rem;">Yes! We'll provide breakfast to start your day, a nutritious lunch, and coffee breaks throughout the workshop to keep you energized. All dietary restrictions and preferences will be accommodated. Please indicate any special requirements during registration.</p>
+
+        <p style="text-align: left; font-weight: bold;">What's the workshop format?</p>
+        <p style="text-align: left;">NeuroHack Boston features a dynamic mix of keynote presentations by leading researchers, hands-on technical workshops, interactive discussion panels, and dedicated networking sessions. You'll have opportunities to present your own work, collaborate on new projects, and engage in both formal presentations and informal conversations with peers and mentors from across Boston's research institutions.</p>
+    </div>
+</section>
+
+
+<section id="organizers" class="content-section">
+    <div class="team-content">
+        <h1>Organizers</h1>
+    </div>
 </section>
 
 </body>
