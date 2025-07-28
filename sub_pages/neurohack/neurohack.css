@@ -340,9 +340,8 @@ body::before {
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
 }
 
-
-/* Team part of the css */
-.team-content {
+/* Organizer part of the css */
+.organizers-content {
     padding-top: 2rem;
     text-align: center;
     max-width: 1200px;
@@ -353,7 +352,7 @@ body::before {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-.team-content h1 {
+.organizers-content h1 {
     font-size: 4rem;
     font-weight: 300;
     margin-bottom: 3rem;
@@ -363,68 +362,54 @@ body::before {
     background-clip: text;
 }
 
-.team-member {
-    display: flex;
-    align-items: flex-start;
+
+.organizers-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     gap: 30px;
-    margin-bottom: 40px;
-    text-align: left;
+    margin-top: 2rem;
 }
 
-.team-member img {
-    width: 250px;
-    height: 300px;
-    object-fit: cover;
+.organizer-card {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
     border-radius: 10px;
-    flex-shrink: 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.team-member-info h2 {
-    font-size: 2.5rem;
-    font-weight: 400;
+.organizer-card img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+
+.organizer-card h3 {
+    font-size: 1.5rem;
     color: #333;
     margin-bottom: 0.5rem;
-}
-
-.team-member-title {
-    font-size: 1.3rem;
-    font-style: italic;
-    color: #666;
-    margin-bottom: 1.5rem;
-}
-
-.team-member-info p {
-    font-size: 1rem;
-    color: #333;
-    line-height: 1.6;
-    text-align: justify;
-    margin-bottom: 1rem;
-}
-
-.team-member-info a {
-    color: #4a9eff;
-    text-decoration: none;
     font-weight: 500;
 }
 
-.team-member-info a:hover {
-    text-decoration: underline;
+.organizer-card .organizer-title {
+    font-size: 1rem;
+    color: #666;
+    font-style: italic;
+    margin-bottom: 10px;
 }
 
-/* Responsive design for team section */
+.organizer-card p {
+    font-size: 0.9rem;
+    color: #555;
+    line-height: 1.4;
+}
+
+/* Responsive design */
 @media (max-width: 768px) {
-    .team-member {
-        flex-direction: column;
-        text-align: center;
-    }
-
-    .team-member img {
-        width: 200px;
-        height: 240px;
-        align-self: center;
-    }
-
-    .team-member-info {
-        text-align: left;
+    .organizers-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
     }
 }
