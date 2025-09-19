@@ -1,0 +1,21 @@
+name: Build PRISME Docs
+on:
+  push:
+    paths:
+      - 'sub_pages/prisme/**'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+      - run: |
+          pip install mkdocs-material
+          cd sub_pages/prisme
+          mkdocs build
+          mv site/* .
+          rm -rf site
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
